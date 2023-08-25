@@ -6,7 +6,7 @@
 </p>
 
 <h2 align="center">
-  <a href="https://redneckvitor.github.io/js-calculator/">
+  <a href="https://redneckvitor.github.io/calculadora-javascript/">
     Acesse a calculadora online aqui
   </a>
 </h2>
